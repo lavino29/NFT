@@ -1,0 +1,3 @@
+export const Main = '0x2A6403948CEcd2e0Ae53f2cef66FC5129f6d259E'
+export const Market ='0x6Fa0c60465dA6FCd7529DBDD5E81a839B64b0800'
+export const Token = '0x83b302E053249Fd62949317ADab1039c2f923994'
